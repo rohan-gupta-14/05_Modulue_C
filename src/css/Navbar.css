@@ -1,3 +1,22 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+    background: var(--cream);
+    color: var(--text-dark);
+    overflow-x: hidden;
+}
+
+:root {
+    --forest: #1a3a2a;
+    --forest-mid: #234d38;
+    --forest-light: #2e6645;
+    --lime: #7ec858;
+    --gold: #e9a84c;
+    --cream: #f5f0e8;
+    --white: #ffffff;
+    --text-dark: #111a14;
+    --text-muted: #6b7c6e;
+}
+
 nav{
     position: fixed;
     top: 0;

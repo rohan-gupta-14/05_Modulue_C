@@ -14,4 +14,28 @@ Footer
 Git Hub repo Link - https://github.com/rohan-gupta-14/05_Modulue_C
 
 # Deployment
-VErcel- 05-modulue-c.vercel.app
+Vercel- 05-modulue-c.vercel.app
+
+# Project Structure 
+
+    05_Module_C
+        |
+        |--frontend
+            |--node modules
+            |--public
+            |--src
+            |   |--css
+            |   |    |--Footer.css
+                |    |--HeroSection.css
+                |    |--impactSection.css
+                |    |--Navbar.css
+                |--App.css
+                |--App.jsx
+                |--Footer.jsx
+                |--HeroSection.jsx
+                |--ImpactSection.css
+                |--main.jsx
+                |--Navbar.jsx
+                |--index.html
+                |--README.md
+                
